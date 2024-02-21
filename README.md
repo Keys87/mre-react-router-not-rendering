@@ -11,11 +11,11 @@ This is an MRE for a question in Stack Overflow. This MRE is open sorce, use it 
    ```
    Re-optimizing dependencies because lockfile has changed
 
-  VITE v5.1.3  ready in 331 ms
+   VITE v5.1.3  ready in 331 ms
 
-  ➜  Local:   http://localhost:5173/
-  ➜  Network: use --host to expose
-  ➜  press h + enter to show help
+   ➜  Local:   http://localhost:5173/
+   ➜  Network: use --host to expose
+   ➜  press h + enter to show help
    ```
 
 6. Go to the URL from the ```Local``` field as shown in the picture
